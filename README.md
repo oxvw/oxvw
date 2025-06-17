@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wanpus/wanpus/refs/heads/main/BANNER.PNG" alt="Profile Background">
+</p>
 
-<!--
-**wanpus/wanpus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+{
+  "Description": "A friendly developer who enjoys ethical hacking",
+  "Languages": ["Python", "Php", "NodeJS", "Html", "Css", "Js"],
+  "Frameworks": ["React", "Electron"],
+  "Databases": ["Mysql", "PostgreSQL"],
+  "Projects": ["Iris C2", "Sentinel C2", "Spectre", "Nova Sentinel", "Mlf Crypto Bot"]
+}
+```
