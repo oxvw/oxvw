@@ -8,6 +8,6 @@
   "Languages": ["Python", "Php", "NodeJS", "Html", "Css", "Js"],
   "Frameworks": ["React", "Electron"],
   "Databases": ["Mysql", "PostgreSQL"],
-  "Projects": ["Iris C2", "Sentinel C2", "Spectre", "Nova Sentinel", "Mlf Crypto Bot"]
+  "Projects": ["Iris C2", "Sentinel C2", "Spectre", "Nova Sentinel", "Mlf Crypto Bot", "Nova Strike"]
 }
 ```
